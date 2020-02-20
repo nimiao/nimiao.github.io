@@ -1,13 +1,12 @@
 <table boder="0">
  <tr>
-  <td width="75%">
+  <td width="100%">
 <h1>倪淼</h1>
 <p><b>性别 男</b></p>
 <p><b>爱好 运动 游戏</b></p>
 <p><b>联系方式 QQ1428141356</b></p>
 </td>
- <td width="25%">  
-<img src="/zhaopian.jpg"width="100%">
+
   </td>
  </tr>
 </table>
