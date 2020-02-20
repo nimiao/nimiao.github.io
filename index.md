@@ -1,17 +1,16 @@
 <table boder="0">
  <tr>
-  <td width="100%">
+  <td width="75%">
 <h1>倪淼</h1>
 <p><b>性别 男</b></p>
 <p><b>爱好 运动 游戏</b></p>
 <p><b>联系方式 QQ1428141356</b></p>
 </td>
-   
-</tr>
-</td>
-
-
-
+ <td width="25%">  
+<img src="/IMG20200220221617.jpg"width="100%">
+  </td>
+ </tr>
+</table>
 
 ### 个人信息
 #### 姓名 倪淼
